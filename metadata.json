@@ -1,0 +1,7 @@
+{
+  "name": "Orbit Transcription",
+  "description": "High-fidelity live transcription powered by Orbit AI. Featuring advanced VAD, Noise Cancellation, and Voice Focus.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
